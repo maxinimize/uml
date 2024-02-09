@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-09T20:03:36.148Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="KX7Dzzf1ka5ZcRD8Ky8J" version="23.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-09T20:19:12.777Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="lqj9TXq9BjNVaa9W889c" version="23.1.1" type="github">
   <diagram name="Page-1" id="0783ab3e-0a74-02c8-0abd-f7b4e66b4bec">
     <mxGraphModel dx="1838" dy="543" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
       <root>
@@ -120,16 +120,6 @@
         <mxCell id="n95UubTUEXaW6l02zeMs-73" value="exit current game" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-210" y="200" width="140" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="n95UubTUEXaW6l02zeMs-74" value="save current game" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-210" y="280" width="140" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="n95UubTUEXaW6l02zeMs-75" value="&amp;lt;&amp;lt;includes&amp;gt;&amp;gt;" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="n95UubTUEXaW6l02zeMs-71" target="n95UubTUEXaW6l02zeMs-74" edge="1">
-          <mxGeometry x="-0.0014" width="160" relative="1" as="geometry">
-            <mxPoint x="-425" y="345" as="sourcePoint" />
-            <mxPoint x="-250" y="300" as="targetPoint" />
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="n95UubTUEXaW6l02zeMs-76" value="" style="endArrow=none;endSize=12;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endFill=0;" parent="1" source="n95UubTUEXaW6l02zeMs-1" target="n95UubTUEXaW6l02zeMs-71" edge="1">
           <mxGeometry x="0.0009" width="160" relative="1" as="geometry">
             <mxPoint x="-750" y="261" as="sourcePoint" />
@@ -138,7 +128,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="n95UubTUEXaW6l02zeMs-77" value="use hints" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-210" y="370" width="140" height="70" as="geometry" />
+          <mxGeometry x="-200" y="300" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="n95UubTUEXaW6l02zeMs-78" value="&amp;lt;&amp;lt;includes&amp;gt;&amp;gt;" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="n95UubTUEXaW6l02zeMs-71" target="n95UubTUEXaW6l02zeMs-77" edge="1">
           <mxGeometry x="-0.0014" width="160" relative="1" as="geometry">
@@ -148,7 +138,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="_ills6TpiftIKVdmo6iu-1" value="reset current puzzle" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-210" y="460" width="140" height="70" as="geometry" />
+          <mxGeometry x="-200" y="400" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="_ills6TpiftIKVdmo6iu-2" value="&amp;lt;&amp;lt;includes&amp;gt;&amp;gt;" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.964;exitY=0.714;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="n95UubTUEXaW6l02zeMs-71" target="_ills6TpiftIKVdmo6iu-1" edge="1">
           <mxGeometry x="-0.0014" width="160" relative="1" as="geometry">
@@ -164,6 +154,16 @@
           <mxGeometry x="0.0009" width="160" relative="1" as="geometry">
             <mxPoint x="-760" y="260" as="sourcePoint" />
             <mxPoint x="-560" y="263" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZCNdfQdJ9Vjl3y6DL6CH-1" value="save current progression&amp;nbsp; in this level automatically" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-200" y="510" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="ZCNdfQdJ9Vjl3y6DL6CH-2" value="&amp;lt;&amp;lt;includes&amp;gt;&amp;gt;" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;entryX=0.038;entryY=0.256;entryDx=0;entryDy=0;exitX=1.014;exitY=0.597;exitDx=0;exitDy=0;exitPerimeter=0;entryPerimeter=0;" edge="1" parent="1" source="_ills6TpiftIKVdmo6iu-5" target="ZCNdfQdJ9Vjl3y6DL6CH-1">
+          <mxGeometry x="-0.0014" width="160" relative="1" as="geometry">
+            <mxPoint x="-445" y="393" as="sourcePoint" />
+            <mxPoint x="-210" y="560" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
