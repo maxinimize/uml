@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-10T19:11:26.227Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="mhWIxW0rCeiiXbPlS423" version="23.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-10T19:14:18.845Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="2_N63Wo85DiCUJlgah6R" version="23.1.2" type="github">
   <diagram name="第 1 页" id="43vh1YD4be0ALed3ciaf">
     <mxGraphModel dx="2074" dy="3478" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -19,8 +19,7 @@
               <mxPoint x="225" y="-1835" />
               <mxPoint x="225" y="-1834" />
               <mxPoint x="150" y="-1834" />
-              <mxPoint x="150" y="-1680" />
-              <mxPoint x="275" y="-1680" />
+              <mxPoint x="150" y="-1560" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -35,17 +34,17 @@
         <mxCell id="ehqRJ48Ih6C9_eu3wZeZ-4" value="" style="ellipse;whiteSpace=wrap;html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fillColor=#000000;fontFamily=Verdana;fontSize=12;align=center;" parent="1" vertex="1">
           <mxGeometry x="327.38" y="-2000" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="ehqRJ48Ih6C9_eu3wZeZ-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="ehqRJ48Ih6C9_eu3wZeZ-6" target="ehqRJ48Ih6C9_eu3wZeZ-11" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="jTraTFwr5gqZLHs8TrnX-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="ehqRJ48Ih6C9_eu3wZeZ-6" target="jTraTFwr5gqZLHs8TrnX-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ehqRJ48Ih6C9_eu3wZeZ-6" value="Check the collected puzzle details and scroll up or down" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;arcSize=50;" parent="1" vertex="1">
-          <mxGeometry x="280.14" y="-1775" width="135.25" height="43" as="geometry" />
+        <mxCell id="EOT6ZDoCjOYjLmZeHJKO-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ehqRJ48Ih6C9_eu3wZeZ-6" target="EOT6ZDoCjOYjLmZeHJKO-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ehqRJ48Ih6C9_eu3wZeZ-6" value="Show the collected puzzle details" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;arcSize=50;" parent="1" vertex="1">
+          <mxGeometry x="280.01" y="-1753" width="145.25" height="53" as="geometry" />
         </mxCell>
         <mxCell id="ehqRJ48Ih6C9_eu3wZeZ-7" value="" style="shape=mxgraph.bpmn.shape;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;perimeter=ellipsePerimeter;outline=end;symbol=terminate;rounded=0;shadow=0;comic=0;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" parent="1" vertex="1">
-          <mxGeometry x="327.76" y="-1630" width="40" height="40" as="geometry" />
+          <mxGeometry x="332.64" y="-1500" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ehqRJ48Ih6C9_eu3wZeZ-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="ehqRJ48Ih6C9_eu3wZeZ-9" target="ehqRJ48Ih6C9_eu3wZeZ-2" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -62,7 +61,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ehqRJ48Ih6C9_eu3wZeZ-11" value="Return to the main menu" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;arcSize=50;" parent="1" vertex="1">
-          <mxGeometry x="282.76" y="-1700" width="130" height="40" as="geometry" />
+          <mxGeometry x="287.64" y="-1580" width="130" height="40" as="geometry" />
         </mxCell>
         <mxCell id="jTraTFwr5gqZLHs8TrnX-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" source="jTraTFwr5gqZLHs8TrnX-1" target="ehqRJ48Ih6C9_eu3wZeZ-2" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -71,7 +70,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="jTraTFwr5gqZLHs8TrnX-1" value="Return to choose another difficulity level" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;arcSize=50;" parent="1" vertex="1">
-          <mxGeometry x="460" y="-1785" width="160" height="63" as="geometry" />
+          <mxGeometry x="460" y="-1758" width="160" height="63" as="geometry" />
+        </mxCell>
+        <mxCell id="EOT6ZDoCjOYjLmZeHJKO-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EOT6ZDoCjOYjLmZeHJKO-1" target="ehqRJ48Ih6C9_eu3wZeZ-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EOT6ZDoCjOYjLmZeHJKO-1" value="Scroll up or down to view all the puzzles" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;arcSize=50;" vertex="1" parent="1">
+          <mxGeometry x="280.01" y="-1670" width="145.25" height="53" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
