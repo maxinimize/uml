@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-10T19:41:03.498Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="JjhnhfwWroOM4NwUaDOd" version="23.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-10T19:45:20.051Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="3_umGDe1alI1a2C0EnUI" version="23.1.2" type="github">
   <diagram name="第 1 页" id="5Fmc6TZa9lJt2DpzqyrR">
     <mxGraphModel dx="1430" dy="3124" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -7,7 +7,7 @@
         <mxCell id="tl0OhDEsZjKwrp6nwjqD-42" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="tl0OhDEsZjKwrp6nwjqD-2" target="tl0OhDEsZjKwrp6nwjqD-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="tl0OhDEsZjKwrp6nwjqD-2" value="Choose an existing player&#39;s profile" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;arcSize=50;" parent="1" vertex="1">
+        <mxCell id="tl0OhDEsZjKwrp6nwjqD-2" value="Choose an existing player profile" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;arcSize=50;" parent="1" vertex="1">
           <mxGeometry x="70" y="-1845" width="142.5" height="50" as="geometry" />
         </mxCell>
         <mxCell id="sDaRCnbeuURnXlrtjwvl-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="tl0OhDEsZjKwrp6nwjqD-4" target="sDaRCnbeuURnXlrtjwvl-1" edge="1">
@@ -28,7 +28,7 @@
         <mxCell id="sDaRCnbeuURnXlrtjwvl-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="tl0OhDEsZjKwrp6nwjqD-25" target="sDaRCnbeuURnXlrtjwvl-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="tl0OhDEsZjKwrp6nwjqD-25" value="Display existing players&#39; profile" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;arcSize=50;" parent="1" vertex="1">
+        <mxCell id="tl0OhDEsZjKwrp6nwjqD-25" value="Display existing player profiles" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;arcSize=50;" parent="1" vertex="1">
           <mxGeometry x="286.13" y="-1930" width="115" height="40" as="geometry" />
         </mxCell>
         <mxCell id="sDaRCnbeuURnXlrtjwvl-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="sDaRCnbeuURnXlrtjwvl-1" target="tl0OhDEsZjKwrp6nwjqD-25" edge="1">
@@ -59,7 +59,7 @@
         <mxCell id="sDaRCnbeuURnXlrtjwvl-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="sDaRCnbeuURnXlrtjwvl-9" target="sDaRCnbeuURnXlrtjwvl-13" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="sDaRCnbeuURnXlrtjwvl-9" value="Enter a username to create a new player&#39;s profile" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;arcSize=50;" parent="1" vertex="1">
+        <mxCell id="sDaRCnbeuURnXlrtjwvl-9" value="Enter a username to create a new player profile" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;arcSize=50;" parent="1" vertex="1">
           <mxGeometry x="560" y="-1852.5" width="150" height="65" as="geometry" />
         </mxCell>
         <mxCell id="sDaRCnbeuURnXlrtjwvl-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="sDaRCnbeuURnXlrtjwvl-12" target="sDaRCnbeuURnXlrtjwvl-16" edge="1">
@@ -102,7 +102,7 @@
         <mxCell id="sDaRCnbeuURnXlrtjwvl-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="sDaRCnbeuURnXlrtjwvl-16" target="tl0OhDEsZjKwrp6nwjqD-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="sDaRCnbeuURnXlrtjwvl-16" value="Create a new player&#39;s profile" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;arcSize=50;" parent="1" vertex="1">
+        <mxCell id="sDaRCnbeuURnXlrtjwvl-16" value="Create a new player profile" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;arcSize=50;" parent="1" vertex="1">
           <mxGeometry x="220" y="-1754" width="110" height="65" as="geometry" />
         </mxCell>
       </root>
