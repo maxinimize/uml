@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-10T19:08:00.913Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="ucTgXX6FzX0zFo2Zlaf5" version="23.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-10T19:29:03.103Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="1-5NFF2h9ZGXUsBYbnPo" version="23.1.2" type="github">
   <diagram name="Page-1" id="0783ab3e-0a74-02c8-0abd-f7b4e66b4bec">
     <mxGraphModel dx="2280" dy="786" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
       <root>
@@ -25,7 +25,7 @@
         <mxCell id="n95UubTUEXaW6l02zeMs-35" value="Load a saved game" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-570" y="88" width="140" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="n95UubTUEXaW6l02zeMs-36" value="Track students&#39; progression" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="n95UubTUEXaW6l02zeMs-36" value="Track players&#39; progression" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-560" y="810" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="n95UubTUEXaW6l02zeMs-37" value="View high scores" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
