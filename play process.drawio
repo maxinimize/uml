@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-11T01:20:18.339Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="s_P77TIf7bYoHR4CwQgn" version="23.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-11T01:21:37.260Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="1OQVdL-0IWrLv-yekUvR" version="23.1.2" type="github">
   <diagram name="第 1 页" id="f0YeDjMEGShFUGs4qQmA">
     <mxGraphModel dx="1152" dy="3111" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="291" pageHeight="413" math="0" shadow="0">
       <root>
@@ -38,9 +38,9 @@
             <mxPoint x="365.4000000000001" y="-2050" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="w6Ssev359jJsRczqyK-9-50" value="Level completed&amp;nbsp;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="w6Ssev359jJsRczqyK-9-47" vertex="1" connectable="0">
+        <mxCell id="w6Ssev359jJsRczqyK-9-50" value="Level completed&amp;nbsp; by solving a certain number of puzzles" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="w6Ssev359jJsRczqyK-9-47" vertex="1" connectable="0">
           <mxGeometry x="-0.2759" relative="1" as="geometry">
-            <mxPoint x="45" y="-8" as="offset" />
+            <mxPoint x="145" y="-8" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="v0xXK9j6HNpIpHMnE0X--4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="w6Ssev359jJsRczqyK-9-30" target="v0xXK9j6HNpIpHMnE0X--6" edge="1">
@@ -50,7 +50,7 @@
         </mxCell>
         <mxCell id="v0xXK9j6HNpIpHMnE0X--5" value="Level incompleted" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="v0xXK9j6HNpIpHMnE0X--4" vertex="1" connectable="0">
           <mxGeometry x="-0.0737" y="1" relative="1" as="geometry">
-            <mxPoint x="-69" y="7" as="offset" />
+            <mxPoint x="-69" y="21" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="w6Ssev359jJsRczqyK-9-30" value="" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -84,7 +84,7 @@
             <mxPoint x="490" y="-1870" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="HcS68GTn1QJVdAVEGfwH-4" value="Level completed with enough points" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="1_Lp_Znfj6XmXs-wdfdf-7" vertex="1" connectable="0">
+        <mxCell id="HcS68GTn1QJVdAVEGfwH-4" value="Level completed with enough scores" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="1_Lp_Znfj6XmXs-wdfdf-7" vertex="1" connectable="0">
           <mxGeometry x="-0.4983" y="1" relative="1" as="geometry">
             <mxPoint x="37" y="-9" as="offset" />
           </mxGeometry>
@@ -98,9 +98,9 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="HcS68GTn1QJVdAVEGfwH-2" value="Level completed without enough points" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="1_Lp_Znfj6XmXs-wdfdf-16" vertex="1" connectable="0">
+        <mxCell id="HcS68GTn1QJVdAVEGfwH-2" value="Level completed without enough scores" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="1_Lp_Znfj6XmXs-wdfdf-16" vertex="1" connectable="0">
           <mxGeometry x="-0.0746" y="-4" relative="1" as="geometry">
-            <mxPoint x="44" y="-104" as="offset" />
+            <mxPoint x="44" y="-99" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="1_Lp_Znfj6XmXs-wdfdf-4" value="" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -130,7 +130,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="1_Lp_Znfj6XmXs-wdfdf-13" value="Unlock the next difficulity level" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;arcSize=50;" parent="1" vertex="1">
-          <mxGeometry x="270" y="-1800" width="190.62" height="40" as="geometry" />
+          <mxGeometry x="270" y="-1795" width="180" height="30" as="geometry" />
         </mxCell>
         <mxCell id="1_Lp_Znfj6XmXs-wdfdf-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="1_Lp_Znfj6XmXs-wdfdf-14" target="v0xXK9j6HNpIpHMnE0X--15" edge="1">
           <mxGeometry relative="1" as="geometry">
