@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-11T00:52:21.766Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="2Lj5dRloLLMrcgUK7RhL" version="23.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-11T00:52:35.453Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="Je3pQ1eW0jtz2-v4EHLR" version="23.1.2" type="github">
   <diagram name="第 1 页" id="CL-UmEYnadEik9d4xOVo">
     <mxGraphModel dx="1185" dy="2989" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -7,7 +7,7 @@
         <mxCell id="3XlZ-Ykn8DyyXwoKQ8Sx-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="rH0048MOvRVm2mWPWrwe-2" target="3XlZ-Ykn8DyyXwoKQ8Sx-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="rH0048MOvRVm2mWPWrwe-2" value="Display a confirmation message that current progression was saved" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;arcSize=50;" parent="1" vertex="1">
+        <mxCell id="rH0048MOvRVm2mWPWrwe-2" value="Display a confirmation message that current progression in this difficulty level was saved" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;arcSize=50;" parent="1" vertex="1">
           <mxGeometry x="244.32" y="-1600" width="236.16" height="70" as="geometry" />
         </mxCell>
         <mxCell id="rH0048MOvRVm2mWPWrwe-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="rH0048MOvRVm2mWPWrwe-4" target="rH0048MOvRVm2mWPWrwe-7" edge="1">
