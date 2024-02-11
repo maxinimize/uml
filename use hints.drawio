@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-11T01:04:11.533Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="5sm7xbugIEC54DhdTa3a" version="23.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-11T01:06:47.892Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="4OYEmV1MQwv7gV0Hi-u3" version="23.1.2" type="github">
   <diagram name="第 1 页" id="_rum_Qx3C-pl_39SnO8p">
     <mxGraphModel dx="988" dy="3021" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="291" pageHeight="413" math="0" shadow="0">
       <root>
@@ -51,9 +51,9 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="W63FELmV4LjoxZOhi6UZ-21" value="No more hints remaining" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="W63FELmV4LjoxZOhi6UZ-20" vertex="1" connectable="0">
+        <mxCell id="W63FELmV4LjoxZOhi6UZ-21" value="No more hints remaining &lt;br&gt;for current puzzle" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="W63FELmV4LjoxZOhi6UZ-20" vertex="1" connectable="0">
           <mxGeometry x="-0.7335" y="-3" relative="1" as="geometry">
-            <mxPoint y="-13" as="offset" />
+            <mxPoint x="10" y="-23" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="W63FELmV4LjoxZOhi6UZ-13" value="" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
