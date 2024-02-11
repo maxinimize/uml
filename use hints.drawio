@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-11T01:06:47.892Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="4OYEmV1MQwv7gV0Hi-u3" version="23.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-11T01:07:51.211Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="VBrkAKGhENKXF7QQTDu3" version="23.1.2" type="github">
   <diagram name="第 1 页" id="_rum_Qx3C-pl_39SnO8p">
     <mxGraphModel dx="988" dy="3021" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="291" pageHeight="413" math="0" shadow="0">
       <root>
@@ -37,7 +37,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="W63FELmV4LjoxZOhi6UZ-22" value="Hints remaining" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="W63FELmV4LjoxZOhi6UZ-10" vertex="1" connectable="0">
+        <mxCell id="W63FELmV4LjoxZOhi6UZ-22" value="Hints available" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="W63FELmV4LjoxZOhi6UZ-10" vertex="1" connectable="0">
           <mxGeometry x="0.3171" y="2" relative="1" as="geometry">
             <mxPoint x="38" as="offset" />
           </mxGeometry>
@@ -51,9 +51,9 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="W63FELmV4LjoxZOhi6UZ-21" value="No more hints remaining &lt;br&gt;for current puzzle" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="W63FELmV4LjoxZOhi6UZ-20" vertex="1" connectable="0">
+        <mxCell id="W63FELmV4LjoxZOhi6UZ-21" value="No more hints available" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="W63FELmV4LjoxZOhi6UZ-20" vertex="1" connectable="0">
           <mxGeometry x="-0.7335" y="-3" relative="1" as="geometry">
-            <mxPoint x="10" y="-23" as="offset" />
+            <mxPoint x="10" y="-13" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="W63FELmV4LjoxZOhi6UZ-13" value="" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -68,7 +68,7 @@
         <mxCell id="ku7iXRXvoYRYUrVBcZmR-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="ku7iXRXvoYRYUrVBcZmR-1" target="W63FELmV4LjoxZOhi6UZ-7" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ku7iXRXvoYRYUrVBcZmR-1" value="Update the remaining hints and the expectation of scores" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;arcSize=50;" parent="1" vertex="1">
+        <mxCell id="ku7iXRXvoYRYUrVBcZmR-1" value="Update the available hints and the expectation of scores" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;arcSize=50;" parent="1" vertex="1">
           <mxGeometry x="263.84000000000003" y="-1720" width="197.08" height="60" as="geometry" />
         </mxCell>
       </root>
