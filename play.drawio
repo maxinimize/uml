@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-02-11T01:13:07.011Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="JBiY4TlETkytWgtM2MyA" version="23.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-11T02:05:48.421Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="BL25EFsrCfcvkF2t0gSP" version="23.1.2" type="github">
   <diagram name="Page-1" id="0783ab3e-0a74-02c8-0abd-f7b4e66b4bec">
-    <mxGraphModel dx="1185" dy="3129" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="291" pageHeight="413" background="none" math="0" shadow="0">
+    <mxGraphModel dx="830" dy="2934" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="291" pageHeight="413" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -21,7 +21,7 @@
         <mxCell id="_0BTxhpO1Rx_sMPbXlcL-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="_0BTxhpO1Rx_sMPbXlcL-6" target="_0BTxhpO1Rx_sMPbXlcL-12" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="_0BTxhpO1Rx_sMPbXlcL-6" value="All blank spots have the same letter as the chosen one will be selected with highlights" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;arcSize=50;" parent="1" vertex="1">
+        <mxCell id="_0BTxhpO1Rx_sMPbXlcL-6" value="All blank spots have the same letter as the chosen one are selected with highlights" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;arcSize=50;" parent="1" vertex="1">
           <mxGeometry x="80" y="-2250" width="190" height="70" as="geometry" />
         </mxCell>
         <mxCell id="_0BTxhpO1Rx_sMPbXlcL-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="_0BTxhpO1Rx_sMPbXlcL-12" target="_0BTxhpO1Rx_sMPbXlcL-16" edge="1">
