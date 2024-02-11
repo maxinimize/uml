@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-11T00:58:09.544Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="Fj2lkL1I3rf6NVlw2SD-" version="23.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-11T00:59:01.196Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="wsE3qq4WQ5EDrPviwdgq" version="23.1.2" type="github">
   <diagram name="第 1 页" id="gCn5y6iDQdJzFsjdhJAQ">
     <mxGraphModel dx="988" dy="3021" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="291" pageHeight="413" math="0" shadow="0">
       <root>
@@ -36,7 +36,7 @@
         <mxCell id="vtA-RNlgkXTQP00N-WAl-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="vtA-RNlgkXTQP00N-WAl-16" target="vtA-RNlgkXTQP00N-WAl-5" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="vtA-RNlgkXTQP00N-WAl-16" value="Play this puzzle as a new begining" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;arcSize=50;" parent="1" vertex="1">
+        <mxCell id="vtA-RNlgkXTQP00N-WAl-16" value="Play this puzzle as a new beginning" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;arcSize=50;" parent="1" vertex="1">
           <mxGeometry x="54.95999999999998" y="-1930" width="165.26" height="60" as="geometry" />
         </mxCell>
         <mxCell id="FfWkdE3acJlJ4krA2gVv-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="FfWkdE3acJlJ4krA2gVv-1" target="vtA-RNlgkXTQP00N-WAl-7">
