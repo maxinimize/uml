@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-11T01:19:17.756Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="JCNa1Y9qGmn-t4ZkobHm" version="23.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-11T01:20:18.339Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="s_P77TIf7bYoHR4CwQgn" version="23.1.2" type="github">
   <diagram name="第 1 页" id="f0YeDjMEGShFUGs4qQmA">
     <mxGraphModel dx="1152" dy="3111" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="291" pageHeight="413" math="0" shadow="0">
       <root>
@@ -7,7 +7,7 @@
         <mxCell id="w6Ssev359jJsRczqyK-9-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="w6Ssev359jJsRczqyK-9-2" target="w6Ssev359jJsRczqyK-9-28" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="w6Ssev359jJsRczqyK-9-2" value="Update the points&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;arcSize=50;" parent="1" vertex="1">
+        <mxCell id="w6Ssev359jJsRczqyK-9-2" value="Update the scores" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;arcSize=50;" parent="1" vertex="1">
           <mxGeometry x="299.06" y="-2300" width="132.5" height="40" as="geometry" />
         </mxCell>
         <mxCell id="w6Ssev359jJsRczqyK-9-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="w6Ssev359jJsRczqyK-9-4" target="w6Ssev359jJsRczqyK-9-27" edge="1">
