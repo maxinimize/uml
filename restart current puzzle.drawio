@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-11T00:54:46.647Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="fVL9fENIQBNCHBzYd4PL" version="23.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-11T00:55:53.875Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="ArSZz3CirKUIWBIdaUAz" version="23.1.2" type="github">
   <diagram name="第 1 页" id="gCn5y6iDQdJzFsjdhJAQ">
     <mxGraphModel dx="988" dy="3021" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="291" pageHeight="413" math="0" shadow="0">
       <root>
@@ -26,7 +26,7 @@
             <mxPoint x="362.4000000000001" y="-1929.98" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="vtA-RNlgkXTQP00N-WAl-14" value="Restart the puzzle" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;arcSize=50;" parent="1" vertex="1">
+        <mxCell id="vtA-RNlgkXTQP00N-WAl-14" value="Choose the option to restart the puzzle" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;arcSize=50;" parent="1" vertex="1">
           <mxGeometry x="284.74" y="-2020" width="155.25" height="60" as="geometry" />
         </mxCell>
         <mxCell id="vtA-RNlgkXTQP00N-WAl-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="vtA-RNlgkXTQP00N-WAl-15" target="vtA-RNlgkXTQP00N-WAl-16" edge="1">
