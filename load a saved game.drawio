@@ -1,14 +1,14 @@
-<mxfile host="app.diagrams.net" modified="2024-02-11T00:35:47.957Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="FKzhfPTcDghkP7iCY_4a" version="23.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-11T02:27:27.291Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="iB3lVNVxpYV1HG2I4Kz4" version="23.1.2" type="github">
   <diagram name="第 1 页" id="BOSOMp4tyjQYpUhhlBDr">
-    <mxGraphModel dx="3457" dy="4378" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="291" pageHeight="413" math="0" shadow="0">
+    <mxGraphModel dx="2074" dy="3618" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="291" pageHeight="413" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="I8EXXcZNdd-gMAKYdpeh-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="I8EXXcZNdd-gMAKYdpeh-2" target="I8EXXcZNdd-gMAKYdpeh-6" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="350" y="-1740" />
-              <mxPoint x="350" y="-1740" />
+              <mxPoint x="290" y="-2050" />
+              <mxPoint x="290" y="-2050" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -16,34 +16,34 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="I8EXXcZNdd-gMAKYdpeh-2" value="Choose a saved game" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;arcSize=50;" parent="1" vertex="1">
-          <mxGeometry x="291.12" y="-1840" width="142.5" height="50" as="geometry" />
+          <mxGeometry x="231.12" y="-2150" width="142.5" height="50" as="geometry" />
         </mxCell>
         <mxCell id="I8EXXcZNdd-gMAKYdpeh-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="I8EXXcZNdd-gMAKYdpeh-4" target="I8EXXcZNdd-gMAKYdpeh-9" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="342.25" y="-1930" as="targetPoint" />
+            <mxPoint x="282.25" y="-2240" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="I8EXXcZNdd-gMAKYdpeh-4" value="" style="ellipse;whiteSpace=wrap;html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fillColor=#000000;fontFamily=Verdana;fontSize=12;align=center;" parent="1" vertex="1">
-          <mxGeometry x="342.37" y="-2140" width="40" height="40" as="geometry" />
+          <mxGeometry x="282.37" y="-2450" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="I8EXXcZNdd-gMAKYdpeh-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="I8EXXcZNdd-gMAKYdpeh-6" target="I8EXXcZNdd-gMAKYdpeh-7" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="I8EXXcZNdd-gMAKYdpeh-6" value="Start to play a puzzle" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;arcSize=50;" parent="1" vertex="1">
-          <mxGeometry x="299.36" y="-1753.5" width="126" height="40" as="geometry" />
+          <mxGeometry x="239.36" y="-2063.5" width="126" height="40" as="geometry" />
         </mxCell>
         <mxCell id="I8EXXcZNdd-gMAKYdpeh-7" value="" style="shape=mxgraph.bpmn.shape;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;perimeter=ellipsePerimeter;outline=end;symbol=terminate;rounded=0;shadow=0;comic=0;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" parent="1" vertex="1">
-          <mxGeometry x="342.36" y="-1670" width="40" height="40" as="geometry" />
+          <mxGeometry x="282.36" y="-1980" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="I8EXXcZNdd-gMAKYdpeh-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="I8EXXcZNdd-gMAKYdpeh-9" target="I8EXXcZNdd-gMAKYdpeh-10" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="I8EXXcZNdd-gMAKYdpeh-9" value="Choose &quot;Load a Saved Game&quot; on the main menu" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;arcSize=50;" parent="1" vertex="1">
-          <mxGeometry x="284.74" y="-2070" width="155.25" height="60" as="geometry" />
+          <mxGeometry x="224.74" y="-2380" width="155.25" height="60" as="geometry" />
         </mxCell>
         <mxCell id="I8EXXcZNdd-gMAKYdpeh-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" target="I8EXXcZNdd-gMAKYdpeh-2" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="362" y="-1890" as="sourcePoint" />
+            <mxPoint x="302" y="-2200" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="I8EXXcZNdd-gMAKYdpeh-16" value="Found saved games" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="I8EXXcZNdd-gMAKYdpeh-12" vertex="1" connectable="0">
@@ -55,34 +55,34 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="I8EXXcZNdd-gMAKYdpeh-10" value="" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="322.37" y="-1970" width="80" height="80" as="geometry" />
+          <mxGeometry x="262.37" y="-2280" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="I8EXXcZNdd-gMAKYdpeh-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="I8EXXcZNdd-gMAKYdpeh-17" target="I8EXXcZNdd-gMAKYdpeh-7" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="557.625" y="-1623.5" as="targetPoint" />
+            <mxPoint x="497.625" y="-1933.5" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="558" y="-1650" />
+              <mxPoint x="498" y="-1960" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="I8EXXcZNdd-gMAKYdpeh-17" value="A message is displayed on the main menu to tell player no saved games found" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;arcSize=50;" parent="1" vertex="1">
-          <mxGeometry x="470" y="-1845" width="180" height="55" as="geometry" />
+          <mxGeometry x="410" y="-2155" width="180" height="55" as="geometry" />
         </mxCell>
         <mxCell id="DpQszgppPGQiaWL5IwVl-1" value="No saved games found" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="469.9984162997379" y="-1930.0007687133732" as="geometry">
+          <mxGeometry x="409.9984162997379" y="-2240.000768713373" as="geometry">
             <mxPoint x="-4" y="-13" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="VzpoN5xtcRn-d2TkTH8v-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="VzpoN5xtcRn-d2TkTH8v-2" target="I8EXXcZNdd-gMAKYdpeh-7" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="139.8699999999999" y="-1725" as="targetPoint" />
+            <mxPoint x="79.86999999999989" y="-2035" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="180" y="-1650" />
+              <mxPoint x="120" y="-1960" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="VzpoN5xtcRn-d2TkTH8v-2" value="Returns to the main menu" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;arcSize=50;" parent="1" vertex="1">
-          <mxGeometry x="100" y="-1840" width="142.5" height="50" as="geometry" />
+          <mxGeometry x="40" y="-2150" width="142.5" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
