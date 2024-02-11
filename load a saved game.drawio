@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-02-10T18:56:40.150Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="O64nChsel0DatqI3yEU9" version="23.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-11T00:34:45.774Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="we4wcxHuX5W84EOZHSzb" version="23.1.2" type="github">
   <diagram name="第 1 页" id="BOSOMp4tyjQYpUhhlBDr">
-    <mxGraphModel dx="2074" dy="3478" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1185" dy="2989" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -12,7 +12,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="VzpoN5xtcRn-d2TkTH8v-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="I8EXXcZNdd-gMAKYdpeh-2" target="VzpoN5xtcRn-d2TkTH8v-2">
+        <mxCell id="VzpoN5xtcRn-d2TkTH8v-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="I8EXXcZNdd-gMAKYdpeh-2" target="VzpoN5xtcRn-d2TkTH8v-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="I8EXXcZNdd-gMAKYdpeh-2" value="Choose a saved game" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;arcSize=50;" parent="1" vertex="1">
@@ -65,15 +65,15 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="I8EXXcZNdd-gMAKYdpeh-17" value="Prompt &quot;no saved games&quot; on the main menu" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;arcSize=50;" parent="1" vertex="1">
-          <mxGeometry x="480" y="-1845" width="155.25" height="60" as="geometry" />
+        <mxCell id="I8EXXcZNdd-gMAKYdpeh-17" value="A message is displayed on the main menu to tell player no saved games found" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;arcSize=50;" parent="1" vertex="1">
+          <mxGeometry x="470" y="-1845" width="180" height="55" as="geometry" />
         </mxCell>
         <mxCell id="DpQszgppPGQiaWL5IwVl-1" value="No saved games found" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="1" vertex="1" connectable="0">
           <mxGeometry x="469.9984162997379" y="-1930.0007687133732" as="geometry">
             <mxPoint x="-4" y="-13" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="VzpoN5xtcRn-d2TkTH8v-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="VzpoN5xtcRn-d2TkTH8v-2" target="I8EXXcZNdd-gMAKYdpeh-7">
+        <mxCell id="VzpoN5xtcRn-d2TkTH8v-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="VzpoN5xtcRn-d2TkTH8v-2" target="I8EXXcZNdd-gMAKYdpeh-7" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="139.8699999999999" y="-1725" as="targetPoint" />
             <Array as="points">
@@ -81,7 +81,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="VzpoN5xtcRn-d2TkTH8v-2" value="Returns to the main menu" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;arcSize=50;" vertex="1" parent="1">
+        <mxCell id="VzpoN5xtcRn-d2TkTH8v-2" value="Returns to the main menu" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;arcSize=50;" parent="1" vertex="1">
           <mxGeometry x="68.62" y="-1840" width="142.5" height="50" as="geometry" />
         </mxCell>
       </root>
