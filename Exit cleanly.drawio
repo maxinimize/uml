@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-12T05:33:03.688Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="h9wtyz5zZqdfRD77fNn_" version="23.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-12T05:38:26.353Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="Za_An6PmeUaERPb3gRsT" version="23.1.2" type="github">
   <diagram name="第 1 页" id="TlrLcPImfPQn0JjbF9aS">
     <mxGraphModel dx="2074" dy="3618" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="291" pageHeight="413" math="0" shadow="0">
       <root>
@@ -12,26 +12,22 @@
         </mxCell>
         <mxCell id="LObKgbLgCiNCiqsxyeOi-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="LObKgbLgCiNCiqsxyeOi-5" target="LObKgbLgCiNCiqsxyeOi-11" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="97.12" y="-2380" as="targetPoint" />
+            <mxPoint x="95.37" y="-2310" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="LObKgbLgCiNCiqsxyeOi-5" value="" style="ellipse;whiteSpace=wrap;html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fillColor=#000000;fontFamily=Verdana;fontSize=12;align=center;" parent="1" vertex="1">
-          <mxGeometry x="82.25" y="-2450" width="40" height="40" as="geometry" />
+          <mxGeometry x="80.5" y="-2380" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="LObKgbLgCiNCiqsxyeOi-9" value="" style="shape=mxgraph.bpmn.shape;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;perimeter=ellipsePerimeter;outline=end;symbol=terminate;rounded=0;shadow=0;comic=0;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" parent="1" vertex="1">
           <mxGeometry x="82.25" y="-2130" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="FzFKyYOxdwDDHmSqPdDu-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LObKgbLgCiNCiqsxyeOi-11" target="FzFKyYOxdwDDHmSqPdDu-4">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="LObKgbLgCiNCiqsxyeOi-11" value="Choose the option to exit the game on main menu" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;arcSize=50;" parent="1" vertex="1">
-          <mxGeometry x="30" y="-2380" width="145.25" height="60" as="geometry" />
+          <mxGeometry x="28.25" y="-2310" width="145.25" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="FzFKyYOxdwDDHmSqPdDu-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FzFKyYOxdwDDHmSqPdDu-4" target="LObKgbLgCiNCiqsxyeOi-3">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="FzFKyYOxdwDDHmSqPdDu-4" value="Check data is saved correctly" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;arcSize=50;" vertex="1" parent="1">
-          <mxGeometry x="31" y="-2290" width="142.5" height="50" as="geometry" />
+        <mxCell id="FzFKyYOxdwDDHmSqPdDu-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LObKgbLgCiNCiqsxyeOi-11" target="LObKgbLgCiNCiqsxyeOi-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="102.30000000000018" y="-2240" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
